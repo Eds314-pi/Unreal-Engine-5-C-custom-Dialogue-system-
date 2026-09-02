@@ -1,8 +1,7 @@
-# Unreal-Engine-5-C-custom-Dialogue-system-
-This custom dialogue system was created to simplify the process of displaying dialogue on screen in Unreal Engine.
-
-
-For our high school video game project to be successful, we needed to tell a compelling story. To achieve that, we built a system that makes it easy to bring dialogue—and the world around it—to life.
+# Unreal Engine 5  custom Dialogue system
+## Premise 
+On a development team responsible for story it was deemed that dialogue is indispensable for proper story telling. To achieve this a custom system was designed to allow developers to only modify
+a .txt file for ease of use and the ability to customize without intuitive knowledge of how the code was made by a developer. 
 
 ## Features
 - Simple and developer-friendly design
@@ -11,7 +10,7 @@ For our high school video game project to be successful, we needed to tell a com
 - Easily customizable dialogue, colors, and text size
 
 ## How It Works
-Dialogue is defined in a text file that follows a specific layout. The system reads this file and converts it into structured data that can be used in-game.
+Dialogue is defined in a .txt file that follows a specific layout. The system reads this file and converts it into structured data that can be used in-game.
 
 ## Usage
 Call the provided BlueprintCallable functions to:
