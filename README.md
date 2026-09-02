@@ -11,9 +11,6 @@ a .txt file for ease of use and the ability to customize without intuitive knowl
 - Supports text-based input files with a structured format
 - Easily customizable dialogue, colors, and text size
 
-## How It Works
-Dialogue is defined in a .txt file that follows a specific layout. The system reads this file and converts it into structured data that can be used in-game.
-
 ## Usage
 Call the provided BlueprintCallable functions to:
 - Read dialogue from a file
