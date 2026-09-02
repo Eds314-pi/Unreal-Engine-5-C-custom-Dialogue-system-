@@ -1,4 +1,5 @@
-<img width="1152" height="720" alt="ComputerDemo" src=["https://github.com/user-attachments/assets/1eb86371-1e63-4665-8631-ddb48b1b5b4d](https://github.com/Eds314-pi/Unreal-Engine-5-C-custom-Dialogue-system-/blob/main/UE5_DEMO.gif)" />
+<img width="1152" height="720" alt="UE5 Demo"
+src="https://raw.githubusercontent.com/Eds314-pi/Unreal-Engine-5-C-custom-Dialogue-system-/main/UE5_DEMO.gif" />
 # Unreal Engine 5  custom Dialogue system
 ## Premise 
 On a development team responsible for story it was deemed that dialogue is indispensable for proper story telling. To achieve this a custom system was designed to allow developers to only modify
