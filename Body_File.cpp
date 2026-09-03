@@ -121,7 +121,6 @@ FScript UReadFromFile::ReadLineByLine(FScript Conversation,FString filepath,FStr
 			}
 			if (line == "Color" && found) {
 				Conversation.Color=ColorPicker(limit,Conversation,file,skip);
-				//MUST CHANGE LATER
 				for (int i = 0;i < limit+1;i++) {
 					std::getline(in_file, line, '\n');
 					skip++;
